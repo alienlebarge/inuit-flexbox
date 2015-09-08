@@ -1,0 +1,26 @@
+{
+  "name": "inuit-flexbox-tools",
+  "version": "0.0.0",
+  "homepage": "https://github.com/alienlebarge/inuit-flexbox-tools",
+  "authors": [
+    "Cédric Aellen <cedric.aellen@alienlebarge.ch>"
+  ],
+  "description": "Flexbox tools for InuitCSS",
+  "main": "_tools.flexbox.scss",
+  "keywords": [
+    "flexbox",
+    "inuitcss",
+    "css",
+    "oocss",
+    "mixins",
+    "tools"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
